@@ -1,8 +1,8 @@
 {
-  "name": "filesaverjs",
+  "name": "FileSaver.js",
   "main": "FileSaver.js",
   "version": "0.0.2",
-  "homepage": "https://github.com/phil-flex/filesaverjs",
+  "homepage": "https://github.com/phil-flex/FileSaver.js",
   "authors": [
     "Carlos A. Gomes"
   ],
