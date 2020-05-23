@@ -1,0 +1,30 @@
+{
+  "name": "filesaverjs",
+  "main": "FileSaver.js",
+  "version": "0.0.2",
+  "homepage": "https://github.com/phil-flex/FileSaver.js",
+  "authors": [
+    "Carlos A. Gomes"
+  ],
+  "description": "An HTML5 saveAs() FileSaver implementation.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "HTML5",
+    "saveAs",
+    "File",
+    "Save",
+    "Download"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "!FileSaver.js",
+    "!FileSaver.min.js",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
